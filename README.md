@@ -1,8 +1,8 @@
-## Covid-19 Diagnosis through X-Ray Imaging
+## Covid-19 Diagnosis through CT-Scans
 
 ### Result
 
-![Demo](https://i.imgur.com/wDUQiwf.png)
+![Demo](https://ibb.co/FzD7Zq4)
 
 ### Install all the necessary libraries
 ```python
